@@ -21,9 +21,16 @@ Every Monday, Wednesday, and Friday at 13:00 Berlin time, the workflow runs auto
 
 ## Email preview
 
+The email is HTML-formatted with course-grouped sections, a "Due Soon" highlight at the top with red urgency markers, deadline countdowns, and reading-time estimates. The subject line itself reflects urgency — `🔥 HEUTE faellig!`, `⚠️ in 2 Tagen faellig`.
+
+<details>
+<summary><b>📧 Click to view full email screenshot</b></summary>
+
+<br>
+
 ![Email preview](docs/email-preview.png)
 
-The email is HTML-formatted with course-grouped sections, a "Due Soon" highlight at the top with red urgency markers, deadline countdowns, and reading-time estimates. The subject line itself reflects urgency — `🔥 HEUTE faellig!`, `⚠️ in 2 Tagen faellig`.
+</details>
 
 ## Architecture
 
